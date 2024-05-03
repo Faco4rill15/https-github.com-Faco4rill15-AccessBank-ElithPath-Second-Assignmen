@@ -1,0 +1,27 @@
+div {
+    background: gray;
+}
+
+h1 {
+text-align: center;
+color: aliceblue;
+
+}
+
+img {
+border: solid green 2px;
+display: grid;
+margin: 15px;
+padding: 14px;
+}
+
+li {
+    text-align: justify;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    text-decoration: none;
+}
